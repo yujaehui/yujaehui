@@ -1,17 +1,15 @@
+Hello! I'm **Jaehui**, an **iOS Developer**.
 
+I am passionate about creating intuitive and scalable applications and constantly strive to grow through new challenges.
 
-안녕하세요! 저는 **iOS 개발자** **Jaehui**입니다. 
+- 🔧 **Fields I Enjoy Working On:**  
+  - Developing iOS applications using UIKit and SwiftUI.  
+  - Refactoring for improved maintainability and performance optimization.
 
-직관적이고 확장 가능한 애플리케이션을 만드는 데 열정을 가지고 있으며, 항상 새로운 도전을 통해 성장하고 있습니다.
-
-- 🔧 **제가 즐겨 개발하는 분야:**  
-  - UIKit, SwiftUI를 활용한 iOS 애플리케이션 개발.  
-  - 유지보수성과 성능 최적화를 위한 리팩토링.
-
-- 🌱 **배우고 있는 것들:**
-  - RxSwift를 활용한 리액티브 프로그래밍 심화 학습.  
-  - Combine을 활용한 비동기 처리.  
-  - 다양한 위젯 개발과 직관적인 UI 설계.
+- 🌱 **Currently Learning:**  
+  - Advanced reactive programming with RxSwift.  
+  - Asynchronous programming with Combine.  
+  - Developing diverse widgets with WidgetKit.
 
 
 <!--
